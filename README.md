@@ -1,4 +1,4 @@
-# Explainable Machine Learning Reveals Subcortical U-Fiber White Matter Alterations Associated With Cognitive Impairment in Relapsing–Remitting Multiple Sclerosis
+# An Interpretable Diffusion MRI-Based Machine Learning Framework for Exploratory Analysis of U-Fiber Microstructure and Cognitive Phenotypes in Multiple Sclerosis
 
 This repository contains the **explainable machine learning pipeline** developed to identify and characterize **cognitive impairment in Relapsing–Remitting Multiple Sclerosis (RRMS)** using diffusion MRI–derived **fractional anisotropy (FA) biomarkers from subcortical U-fiber white matter**.
 
@@ -51,7 +51,7 @@ This repository supports research into **MRI-based biomarkers of cognitive dysfu
 
 ## Repository Contents
 
-- `codes` — Main machine learning pipeline
+- `codes` — Main machine learning pipeline and stability selection
 - `dataset` — Processed dataset with FA features and BMAT scores
 - `results-images` — Result images
 - `requirements.txt` — Python dependencies
